@@ -24,12 +24,14 @@ In the next 90 days, I aim to:
 2. Gain proficiency in setting up and managing CI/CD pipelines.
 3. Develop strong Linux troubleshooting skills.
 4. Create Infrastructure on the cloud through the IOC Tool.
+
 ## Core DevOps Skills to Build
 1. Linux Troubleshooting
 2. CI/CD Pipelines
 3. Kubernetes Debugging
 4. Infrastruvture Creation
 5. Cloud Service Operation.
+
 ## Weekly Time Budget
 I will dedicate 2-2.5 hours on weekdays and 4-6 hours on weekends to learning and practicing DevOps skills.
 discipline, clarity of purpose, and consistent effort.
