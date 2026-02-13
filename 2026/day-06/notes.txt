@@ -1,0 +1,4 @@
+Linux file handling practice - Day 06
+Redirection using > and >> operators
+Understanding file read and write operations
+Using tee to write and display output
