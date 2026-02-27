@@ -1,0 +1,23 @@
+
+--- Summary Report ---
+
+Report Date: 27-02-2026
+
+log_report_27-02-2026.txt
+
+total line in tog file: 
+35
+
+Total number of CRITICAL messages: --- Last 5 Critical Errors ---
+Line 4: 2026-02-23 17:07:54 [CRITICAL]  - 25550
+Line 10: 2026-02-23 17:07:54 [CRITICAL]  - 15391
+Line 14: 2026-02-23 17:07:54 [CRITICAL]  - 12969
+Line 20: 2026-02-23 17:07:54 [CRITICAL]  - 542
+Line 24: 2026-02-23 17:07:54 [CRITICAL]  - 13476
+
+Top 5 ERROR messages: --- Top 5 Error Messages ---
+      1 2026-02-23 17:07:55  Segmentation fault - 27352
+      1 2026-02-23 17:07:55  Segmentation fault - 23525
+      1 2026-02-23 17:07:55  Segmentation fault - 19497
+      1 2026-02-23 17:07:55  Segmentation fault - 13240
+      1 2026-02-23 17:07:55  Out of memory - 2042
